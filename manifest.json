@@ -2,7 +2,7 @@
   "name": "Ruleta de Misiones - Pequedoctor",
   "short_name": "Ruleta",
   "description": "Herramienta interactiva para fomentar la autonomía de tu hijo",
-  "start_url": "ruleta-pequedoctor.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#FFF7EF",
   "theme_color": "#1D3557",
